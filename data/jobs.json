@@ -1,0 +1,20 @@
+[
+  {
+    "id": "27df53d1",
+    "title": "python开发",
+    "company": "渝雄传媒",
+    "salary": "3k-4k",
+    "location": "广东茂名东荟城",
+    "required_skills": [
+      "精通python算法；懂得算法的逻辑；积极配合团队的开发"
+    ],
+    "preferred_skills": [
+      "有项目经历；有类似奖项"
+    ],
+    "min_work_years": 2.0,
+    "education_requirement": "专科",
+    "description": "无",
+    "benefits": [],
+    "created_at": "2026-05-26 17:52"
+  }
+]

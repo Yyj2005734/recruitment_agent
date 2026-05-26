@@ -1,0 +1,34 @@
+张三
+手机: 13812345678
+邮箱: zhangsan@example.com
+
+【个人简介】
+5年 Python 后端开发经验，熟悉 Django、Flask、FastAPI 框架。
+熟悉 MySQL、Redis、MongoDB 数据库，了解 Docker、Kubernetes。
+有微服务架构设计经验，熟悉 RESTful API 设计。
+
+【工作经历】
+2021.03 - 至今  某互联网公司  高级开发工程师
+- 负责电商平台后端服务开发
+- 使用 Python + Django 开发订单系统
+- Redis 缓存优化，MySQL 性能调优
+- Docker 容器化部署
+
+2019.06 - 2021.02  某科技公司  Python 开发工程师
+- 参与数据平台开发
+- 使用 Flask + PostgreSQL 开发 API
+- Python 数据处理脚本编写
+
+【教育背景】
+2015.09 - 2019.06  某大学  计算机科学与技术  本科
+
+【技能清单】
+编程语言: Python, Java, JavaScript, Go
+框架: Django, Flask, FastAPI, React, Vue
+数据库: MySQL, PostgreSQL, Redis, MongoDB
+工具: Git, Docker, Kubernetes, Jenkins, Linux
+其他: 微服务, RESTful API, 敏捷开发
+
+【期望信息】
+期望薪资: 30k-45k
+期望城市: 北京
